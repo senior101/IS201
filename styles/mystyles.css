@@ -1,0 +1,61 @@
+
+body{
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 15px;
+    font-weight: 800;
+    color: rgb(54, 54, 54);
+    background-color: #d7dfc2;}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;}
+    
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;}
+
+.resumeListHeading{
+    font-weight: bold;
+    font-style: normal;}
+    
+.underline{
+    text-decoration: underline;}
+    
+.bg{
+    background-position: top right;
+    background-repeat: repeat;}
+
+a{
+    color: rgb(22, 110, 49);
+    text-decoration: none;}
+    
+a:hover{
+    text-decoration: underline;
+    color: rgb(105, 12, 12);}
+
+.subheader{
+    float: right;}
+
+.homepagelk{
+    float: left;}
+
+.header{
+    padding-top: 20px;
+    padding-right: 100px;
+    border-left: 100px;}
+
+.align{
+    text-align: center;
+    float: right;}
+
+.bold{
+    font-weight: bold;}
+
+.postTitle{
+    color: rgb(26, 37, 25);
+    text-align: center;}
+
+.mypost-subtitle{
+    color: (26, 37, 25);
+    font-size: 20px;
+    text-align: center;}
